@@ -1,0 +1,100 @@
+.coluna {
+    float: left;
+    width: 40%;
+    padding: 0% 5%;
+    position: relative;
+}
+
+#ods {
+    float: left;
+    margin: auto;
+    width: 120%;
+    margin-top: 10vw;
+}
+
+.centralisado {
+    text-align: center;
+}
+#porque {
+    margin-top: 40vw;
+
+
+}
+#energia1 {
+    margin-top: 5vw;
+	background-image: url(img2/gerador.jpg);
+	background-size: cover;
+    background-position: center;
+    margin-bottom: 5vw;
+    background-color: rgba(253, 135, 31, 0.547);
+}
+
+#energia2 {
+    margin-top: 5vw;
+	background-image: url(img2/solar.jpg);
+	background-size: cover;
+    background-position: center;
+    margin-bottom: 5vw;
+    background-color: rgba(253, 135, 31, 0.547);
+}
+#energia3 {
+
+    margin-top: 5vw;
+	background-image: url(img2/barragem.jpg);
+	background-size: cover;
+    background-position: center;
+    margin-bottom: 5vw;
+    background-color: rgba(253, 135, 31, 0.547);
+}
+#energia4 {
+
+    margin-top: 5vw;
+	background-image: url(img2/pesquisa.jpg);
+	background-size: cover;
+    background-position: center;
+    background-color: rgba(253, 135, 31, 0.547);
+}
+
+#final {
+    padding: 40px 0px 15px;
+    background-color:#FD871F ;
+}
+
+
+#sobre {
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+}
+
+
+.grande {
+	background-color: rgba(143, 77, 19, 0.547);
+    padding: 280px 0 120px;
+}
+ @media all and (max-width: 468px) {
+     .coluna {
+        float: none;
+        width: 75%
+     }
+     .coluna p {
+        width: 110%
+     }
+     .coluna iframe {
+         width: 113%;
+     }
+     #porque {
+        margin-top: 20vw;
+    }
+    #onuespaco {
+        padding-top: 400px;
+    }
+    #conflito {
+        display: none;
+    }
+ }
+
+
+ #tudo {
+         
+    overflow: hidden;
+}
