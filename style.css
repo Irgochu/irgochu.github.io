@@ -21,7 +21,7 @@
 
 }
 #energia1 {
-    margin-top: 5vw;
+    
 	background-image: url(img2/gerador.jpg);
 	background-size: cover;
     background-position: center;
@@ -30,7 +30,7 @@
 }
 
 #energia2 {
-    margin-top: 5vw;
+   
 	background-image: url(img2/solar.jpg);
 	background-size: cover;
     background-position: center;
@@ -39,7 +39,7 @@
 }
 #energia3 {
 
-    margin-top: 5vw;
+    
 	background-image: url(img2/barragem.jpg);
 	background-size: cover;
     background-position: center;
@@ -48,7 +48,7 @@
 }
 #energia4 {
 
-    margin-top: 5vw;
+    
 	background-image: url(img2/pesquisa.jpg);
 	background-size: cover;
     background-position: center;
