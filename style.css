@@ -21,7 +21,7 @@
 
 }
 #energia1 {
-    
+    	marging-top 5vw;
 	background-image: url(img2/gerador.jpg);
 	background-size: cover;
     background-position: center;
